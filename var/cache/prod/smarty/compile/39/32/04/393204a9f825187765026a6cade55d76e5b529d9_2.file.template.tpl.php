@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 18:49:11
   from '/var/www/html/modules/whatsappchat/views/templates/hook/template.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f93d4ea6_14713655',
+  'unifunc' => 'content_5e0b8a17cd4ba4_84637710',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b42f93d4ea6_14713655 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8a17cd4ba4_84637710 (Smarty_Internal_Template $_smarty_tpl) {
 if (($_smarty_tpl->tpl_vars['custom_js']->value != '' && $_smarty_tpl->tpl_vars['from_bo']->value != '1')) {
 echo '<script'; ?>
 >

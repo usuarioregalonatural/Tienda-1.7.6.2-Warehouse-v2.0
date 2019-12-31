@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:58:01
+/* Smarty version 3.1.33, created on 2019-12-31 19:38:25
   from 'module:iqitextendedproductviewst' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b45d93f03d9_19127314',
+  'unifunc' => 'content_5e0b95a14ab385_18790126',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b45d93f03d9_19127314 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b95a14ab385_18790126 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['productVideoContent']->value) && $_smarty_tpl->tpl_vars['productVideoContent']->value) {?>
     <button class="btn btn-secondary mr-1 ml-1" data-button-action="open-iqitvideos" type="button" data-toggle="modal"
             data-target="#iqit-iqitvideos-modal">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 14:35:24
+/* Smarty version 3.1.33, created on 2019-12-31 19:40:41
   from 'module:iqitcrosssellingviewstemp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b4e9c7dfd28_00395398',
+  'unifunc' => 'content_5e0b9629cbe6a1_41875131',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b4e9c7dfd28_00395398 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b9629cbe6a1_41875131 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="crossselling-products block block-section">
   <h4 class="section-title"><span><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Customers who bought this product also bought:','d'=>'Shop.Theme.Catalog'),$_smarty_tpl ) );?>

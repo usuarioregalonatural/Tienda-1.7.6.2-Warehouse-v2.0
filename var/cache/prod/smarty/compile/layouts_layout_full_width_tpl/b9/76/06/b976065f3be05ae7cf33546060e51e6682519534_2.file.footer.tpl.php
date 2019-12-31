@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 18:49:12
   from '/var/www/html/themes/warehouse/templates/_partials/footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f96b7aa1_25913606',
+  'unifunc' => 'content_5e0b8a181583f7_59975719',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -25,7 +25,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:_partials/_variants/footer-5.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b42f96b7aa1_25913606 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8a181583f7_59975719 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <?php if ($_smarty_tpl->tpl_vars['iqitTheme']->value['f_layout'] == 1) {?>

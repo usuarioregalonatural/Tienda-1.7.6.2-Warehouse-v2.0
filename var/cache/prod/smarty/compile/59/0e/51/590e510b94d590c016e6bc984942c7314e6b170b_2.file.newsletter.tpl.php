@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 19:17:20
   from '/var/www/html/modules/iqitelementor/views/templates/widgets/newsletter.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f9188180_59296100',
+  'unifunc' => 'content_5e0b90b0c67826_34014763',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b42f9188180_59296100 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b90b0c67826_34014763 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <div class="elementor-newsletter">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 18:49:11
   from 'module:iqitsearchviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f9617774_73363170',
+  'unifunc' => 'content_5e0b8a17ea84f9_71231774',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:iqitsearch/views/templates/hook/search-bar.tpl' => 2,
   ),
 ),false)) {
-function content_5e0b42f9617774_73363170 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8a17ea84f9_71231774 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="header-search-btn" class="col col-auto header-btn-w header-search-btn-w">
     <a data-toggle="dropdown" id="header-search-btn-drop"  class="header-btn header-search-btn" data-display="static">

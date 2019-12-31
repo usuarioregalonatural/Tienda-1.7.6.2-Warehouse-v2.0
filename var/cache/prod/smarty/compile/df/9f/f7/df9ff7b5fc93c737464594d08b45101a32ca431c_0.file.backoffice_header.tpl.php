@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:46:09
+/* Smarty version 3.1.33, created on 2019-12-31 18:46:50
   from '/var/www/html/modules/iqitelementor/views/templates/hook/backoffice_header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b4311812904_43586588',
+  'unifunc' => 'content_5e0b898aee9a58_14815677',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b4311812904_43586588 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b898aee9a58_14815677 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
     var elementorPageType = '<?php echo $_smarty_tpl->tpl_vars['pageType']->value;?>

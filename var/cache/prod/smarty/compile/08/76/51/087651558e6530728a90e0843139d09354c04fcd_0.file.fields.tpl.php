@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:47:09
+/* Smarty version 3.1.33, created on 2019-12-31 18:45:10
   from '/var/www/html/modules/an_productfields/views/templates/admin/fields.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b434d3fc088_00421507',
+  'unifunc' => 'content_5e0b8926812813_61022884',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b434d3fc088_00421507 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8926812813_61022884 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
     jQuery(document).ready(function(){

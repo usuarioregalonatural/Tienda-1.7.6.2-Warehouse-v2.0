@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:52:08
+/* Smarty version 3.1.33, created on 2019-12-31 18:45:33
   from '/var/www/html/modules/whatsappchat/views/templates/hook/bo_customers_grid_action.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b44787e91a6_01052345',
+  'unifunc' => 'content_5e0b893dc30ac6_29725166',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b44787e91a6_01052345 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b893dc30ac6_29725166 (Smarty_Internal_Template $_smarty_tpl) {
 if (version_compare(@constant('_PS_VERSION_'),'1.4','<')) {?>
     <!-- TODO PS13 -->
     
