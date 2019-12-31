@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:58:01
+/* Smarty version 3.1.33, created on 2019-12-31 19:38:25
   from 'module:iqitproducttagsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b45d948fb69_04191585',
+  'unifunc' => 'content_5e0b95a15444d5_12783655',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b45d948fb69_04191585 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b95a15444d5_12783655 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['tags']->value)) {?>
     <div class="iqitproducttags">
         <ul>

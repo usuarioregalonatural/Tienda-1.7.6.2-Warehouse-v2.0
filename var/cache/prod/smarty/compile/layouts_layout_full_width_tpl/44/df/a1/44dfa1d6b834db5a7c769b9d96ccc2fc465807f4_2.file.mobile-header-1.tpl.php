@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 18:49:12
   from '/var/www/html/themes/warehouse/templates/_partials/_variants/mobile-header-1.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f965c3c0_93411094',
+  'unifunc' => 'content_5e0b8a18076f00_00148702',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:ps_shoppingcart/ps_shoppingcart-mqty.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b42f965c3c0_93411094 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8a18076f00_00148702 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="mobile-header-sticky">
     <div class="container">

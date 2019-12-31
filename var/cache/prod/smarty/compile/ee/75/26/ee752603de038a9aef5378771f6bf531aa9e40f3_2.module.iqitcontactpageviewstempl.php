@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 18:49:12
   from 'module:iqitcontactpageviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f97298f6_47669685',
+  'unifunc' => 'content_5e0b8a181944b0_39431498',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,23 +21,23 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:iqitcontactpage/views/templates/hook/_partials/content.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b42f97298f6_47669685 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b8a181944b0_39431498 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4325559475e0b42f9727a81_30871280', 'iqitcontactpage-info-block');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4242115795e0b8a18193186_20798317', 'iqitcontactpage-info-block');
 ?>
 
 <?php }
 /* {block 'iqitcontactpage-info-block'} */
-class Block_4325559475e0b42f9727a81_30871280 extends Smarty_Internal_Block
+class Block_4242115795e0b8a18193186_20798317 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'iqitcontactpage-info-block' => 
   array (
-    0 => 'Block_4325559475e0b42f9727a81_30871280',
+    0 => 'Block_4242115795e0b8a18193186_20798317',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

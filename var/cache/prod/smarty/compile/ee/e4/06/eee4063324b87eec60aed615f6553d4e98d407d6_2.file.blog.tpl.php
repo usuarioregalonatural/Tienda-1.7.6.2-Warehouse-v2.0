@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 13:45:45
+/* Smarty version 3.1.33, created on 2019-12-31 19:17:20
   from '/var/www/html/modules/iqitelementor/views/templates/widgets/blog.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b42f92df5c0_48252099',
+  'unifunc' => 'content_5e0b90b0e8d544_22739950',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:iqitelementor/views/templates/widgets/blog/post-small.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b42f92df5c0_48252099 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b90b0e8d544_22739950 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['posts']->value) && count($_smarty_tpl->tpl_vars['posts']->value)) {?>
 
 
