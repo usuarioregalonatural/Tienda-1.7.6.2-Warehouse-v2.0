@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 19:38:25
+/* Smarty version 3.1.33, created on 2019-12-31 19:50:36
   from '/var/www/html/themes/warehouse/templates/catalog/_partials/product-cover-thumbnails.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b95a1468897_56491576',
+  'unifunc' => 'content_5e0b987c6e7208_35498427',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/_product_partials/product-cover.tpl' => 2,
   ),
 ),false)) {
-function content_5e0b95a1468897_56491576 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b987c6e7208_35498427 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="images-container images-container-<?php if ($_smarty_tpl->tpl_vars['iqitTheme']->value['pp_thumbs'] == "left" || $_smarty_tpl->tpl_vars['iqitTheme']->value['pp_thumbs'] == "leftd") {?>left images-container-d-<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['iqitTheme']->value['pp_thumbs'], ENT_QUOTES, 'UTF-8');?>
  <?php } else { ?>bottom<?php }?>">
     <?php if ($_smarty_tpl->tpl_vars['iqitTheme']->value['pp_thumbs'] == "left" || $_smarty_tpl->tpl_vars['iqitTheme']->value['pp_thumbs'] == "leftd") {?>

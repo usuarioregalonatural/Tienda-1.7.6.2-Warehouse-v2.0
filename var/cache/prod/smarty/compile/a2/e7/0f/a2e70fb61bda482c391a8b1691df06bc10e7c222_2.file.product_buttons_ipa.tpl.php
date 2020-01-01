@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 19:38:25
+/* Smarty version 3.1.33, created on 2019-12-31 19:50:36
   from '/var/www/html/modules/an_productfields/views/templates/hook/product_buttons_ipa.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b95a157b1a4_67044373',
+  'unifunc' => 'content_5e0b987c7d2703_30579185',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b95a157b1a4_67044373 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b987c7d2703_30579185 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_null($_smarty_tpl->tpl_vars['an_ipa']->value)) {?>
     <input type="hidden" id="an_pf_ipa" name="an_pf_ipa" value="<?php echo htmlspecialchars(call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['an_ipa']->value,'htmlall','UTF-8' )), ENT_QUOTES, 'UTF-8');?>
 "/>
