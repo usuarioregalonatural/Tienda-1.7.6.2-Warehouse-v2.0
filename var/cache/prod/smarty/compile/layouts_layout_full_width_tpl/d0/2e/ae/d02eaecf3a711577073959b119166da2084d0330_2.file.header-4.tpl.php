@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 18:49:11
+/* Smarty version 3.1.33, created on 2019-12-31 19:50:36
   from '/var/www/html/themes/warehouse/templates/_partials/_variants/header-4.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b8a17d51857_83168978',
+  'unifunc' => 'content_5e0b987c4bdc20_00942925',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:ps_shoppingcart/ps_shoppingcart-btn.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b8a17d51857_83168978 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0b987c4bdc20_00942925 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <div class="header-top">
