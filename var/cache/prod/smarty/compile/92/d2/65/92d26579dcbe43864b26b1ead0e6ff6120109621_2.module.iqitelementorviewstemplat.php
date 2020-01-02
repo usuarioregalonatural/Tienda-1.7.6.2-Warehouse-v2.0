@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 12:00:35
+/* Smarty version 3.1.33, created on 2020-01-02 13:33:42
   from 'module:iqitelementorviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0dcd53a34148_45018289',
+  'unifunc' => 'content_5e0de32621bde5_11550089',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,23 +20,23 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0dcd53a34148_45018289 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0de32621bde5_11550089 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12995375705e0dcd53a32953_06778060', 'iqitelementor');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8283474105e0de32621b0d1_45568570', 'iqitelementor');
 ?>
 
 <?php }
 /* {block 'iqitelementor'} */
-class Block_12995375705e0dcd53a32953_06778060 extends Smarty_Internal_Block
+class Block_8283474105e0de32621b0d1_45568570 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'iqitelementor' => 
   array (
-    0 => 'Block_12995375705e0dcd53a32953_06778060',
+    0 => 'Block_8283474105e0de32621b0d1_45568570',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

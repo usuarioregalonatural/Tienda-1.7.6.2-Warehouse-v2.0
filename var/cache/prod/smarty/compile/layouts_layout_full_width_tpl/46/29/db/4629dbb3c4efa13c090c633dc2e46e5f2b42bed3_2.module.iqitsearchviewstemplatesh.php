@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 12:00:36
+/* Smarty version 3.1.33, created on 2020-01-02 13:34:35
   from 'module:iqitsearchviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0dcd5461ef29_25031987',
+  'unifunc' => 'content_5e0de35b613051_43653224',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0dcd5461ef29_25031987 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0de35b613051_43653224 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <!-- Block search module TOP -->
