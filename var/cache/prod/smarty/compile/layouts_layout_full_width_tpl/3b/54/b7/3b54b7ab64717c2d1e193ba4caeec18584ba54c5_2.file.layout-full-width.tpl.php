@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 12:00:36
+/* Smarty version 3.1.33, created on 2020-01-02 13:34:35
   from '/var/www/html/themes/warehouse/templates/layouts/layout-full-width.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0dcd5439fbc0_86480029',
+  'unifunc' => 'content_5e0de35b41c091_93809757',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,42 +20,42 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0dcd5439fbc0_86480029 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0de35b41c091_93809757 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2210986655e0dcd5439bad0_25812821', 'left_column');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_9803985445e0de35b415428_69197331', 'left_column');
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3183624335e0dcd5439c2f4_55035460', 'right_column');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_226701675e0de35b4161c5_37380269', 'right_column');
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_6905055705e0dcd5439cd03_50185887', "layout_row_start");
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_10026960345e0de35b417283_31357120', "layout_row_start");
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_5787703755e0dcd5439d6b6_34113733', "layout_row_end");
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_13618661425e0de35b4182a6_57892713', "layout_row_end");
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_11586335805e0dcd5439de82_35065956', 'content_wrapper');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1439080195e0de35b418fb5_67262152', 'content_wrapper');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'layouts/layout-both-columns.tpl');
 }
 /* {block 'left_column'} */
-class Block_2210986655e0dcd5439bad0_25812821 extends Smarty_Internal_Block
+class Block_9803985445e0de35b415428_69197331 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'left_column' => 
   array (
-    0 => 'Block_2210986655e0dcd5439bad0_25812821',
+    0 => 'Block_9803985445e0de35b415428_69197331',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -63,12 +63,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'left_column'} */
 /* {block 'right_column'} */
-class Block_3183624335e0dcd5439c2f4_55035460 extends Smarty_Internal_Block
+class Block_226701675e0de35b4161c5_37380269 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'right_column' => 
   array (
-    0 => 'Block_3183624335e0dcd5439c2f4_55035460',
+    0 => 'Block_226701675e0de35b4161c5_37380269',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -76,12 +76,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'right_column'} */
 /* {block "layout_row_start"} */
-class Block_6905055705e0dcd5439cd03_50185887 extends Smarty_Internal_Block
+class Block_10026960345e0de35b417283_31357120 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'layout_row_start' => 
   array (
-    0 => 'Block_6905055705e0dcd5439cd03_50185887',
+    0 => 'Block_10026960345e0de35b417283_31357120',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -89,12 +89,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "layout_row_start"} */
 /* {block "layout_row_end"} */
-class Block_5787703755e0dcd5439d6b6_34113733 extends Smarty_Internal_Block
+class Block_13618661425e0de35b4182a6_57892713 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'layout_row_end' => 
   array (
-    0 => 'Block_5787703755e0dcd5439d6b6_34113733',
+    0 => 'Block_13618661425e0de35b4182a6_57892713',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -102,7 +102,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "layout_row_end"} */
 /* {block 'content'} */
-class Block_15637834045e0dcd5439eb07_97005330 extends Smarty_Internal_Block
+class Block_14368598415e0de35b41a480_25359555 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -113,16 +113,16 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'content'} */
 /* {block 'content_wrapper'} */
-class Block_11586335805e0dcd5439de82_35065956 extends Smarty_Internal_Block
+class Block_1439080195e0de35b418fb5_67262152 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'content_wrapper' => 
   array (
-    0 => 'Block_11586335805e0dcd5439de82_35065956',
+    0 => 'Block_1439080195e0de35b418fb5_67262152',
   ),
   'content' => 
   array (
-    0 => 'Block_15637834045e0dcd5439eb07_97005330',
+    0 => 'Block_14368598415e0de35b41a480_25359555',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -132,7 +132,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
         <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0], array( array('h'=>"displayContentWrapperTop"),$_smarty_tpl ) );?>
 
         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_15637834045e0dcd5439eb07_97005330', 'content', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14368598415e0de35b41a480_25359555', 'content', $this->tplIndex);
 ?>
 
         <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0], array( array('h'=>"displayContentWrapperBottom"),$_smarty_tpl ) );?>

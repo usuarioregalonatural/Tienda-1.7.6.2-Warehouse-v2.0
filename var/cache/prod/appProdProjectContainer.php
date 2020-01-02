@@ -16,6 +16,6 @@ if (!\class_exists(appProdProjectContainer::class, false)) {
 
 return new \ContainerWripvzi\appProdProjectContainer([
     'container.build_hash' => 'Wripvzi',
-    'container.build_id' => '6ed39b90',
-    'container.build_time' => 1577962567,
+    'container.build_id' => '18783543',
+    'container.build_time' => 1577966493,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerWripvzi');
