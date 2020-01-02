@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 13:32:42
+/* Smarty version 3.1.33, created on 2020-01-02 19:00:10
   from '/var/www/html/modules/ps_mbo/views/templates/admin/toolbar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0de2eaaa6f46_55649721',
+  'unifunc' => 'content_5e0e2faa5edc99_32506613',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0de2eaaa6f46_55649721 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0e2faa5edc99_32506613 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <?php if (!$_smarty_tpl->tpl_vars['isSymfonyContext']->value) {?>
     <li style="display:none;">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 13:33:42
+/* Smarty version 3.1.33, created on 2020-01-02 19:00:16
   from 'module:psemailsubscriptionviewst' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0de3263ad908_29448925',
+  'unifunc' => 'content_5e0e2fb0e12579_34657678',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0de3263ad908_29448925 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0e2fb0e12579_34657678 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="ps-emailsubscription-block">
     <form action="<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('entity'=>'index','params'=>array('fc'=>'module','module'=>'iqitemailsubscriptionconf','controller'=>'subscription')),$_smarty_tpl ) );?>

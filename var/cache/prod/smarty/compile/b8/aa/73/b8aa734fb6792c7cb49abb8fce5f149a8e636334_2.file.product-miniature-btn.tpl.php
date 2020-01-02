@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 13:34:35
+/* Smarty version 3.1.33, created on 2020-01-02 19:00:27
   from '/var/www/html/themes/warehouse/templates/catalog/_partials/miniatures/_partials/product-miniature-btn.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0de35b02aeb5_18099114',
+  'unifunc' => 'content_5e0e2fbbac35a9_53383345',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0de35b02aeb5_18099114 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0e2fbbac35a9_53383345 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="product-add-cart">
     <?php if ($_smarty_tpl->tpl_vars['product']->value['add_to_cart_url'] && ($_smarty_tpl->tpl_vars['product']->value['quantity'] > 0 || $_smarty_tpl->tpl_vars['product']->value['allow_oosp']) && !$_smarty_tpl->tpl_vars['configuration']->value['is_catalog']) {?>
