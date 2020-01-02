@@ -1235,6 +1235,7 @@ class FrontContainer extends Container
                 90 => 'an_productfields',
                 91 => 'whatsappchat',
                 92 => 'paypal',
+                93 => 'uecookie',
             ],
             'ps_cache_dir' => '/var/www/html/var/cache/prod/',
             'mail_themes_uri' => '/mails/themes',

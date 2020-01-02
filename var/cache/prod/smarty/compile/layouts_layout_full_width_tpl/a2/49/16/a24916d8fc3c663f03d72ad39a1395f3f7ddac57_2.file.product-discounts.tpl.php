@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 19:50:36
+/* Smarty version 3.1.33, created on 2020-01-02 12:00:44
   from '/var/www/html/themes/warehouse/templates/catalog/_partials/product-discounts.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b987c78b1d2_63666556',
+  'unifunc' => 'content_5e0dcd5c30ca81_77987134',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,14 +20,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0b987c78b1d2_63666556 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0dcd5c30ca81_77987134 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 <section class="product-discounts mb-3">
 <?php if ($_smarty_tpl->tpl_vars['product']->value['quantity_discounts']) {?>
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_21086196155e0b987c784941_75902083', 'product_discount_table');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1195393015e0dcd5c3068c3_06934729', 'product_discount_table');
 ?>
 
     <?php }?>
@@ -35,12 +35,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_21086196155e0b987c
 
 <?php }
 /* {block 'product_discount_table'} */
-class Block_21086196155e0b987c784941_75902083 extends Smarty_Internal_Block
+class Block_1195393015e0dcd5c3068c3_06934729 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_discount_table' => 
   array (
-    0 => 'Block_21086196155e0b987c784941_75902083',
+    0 => 'Block_1195393015e0dcd5c3068c3_06934729',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

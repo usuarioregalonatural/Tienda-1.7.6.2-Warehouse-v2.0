@@ -1,13 +1,8 @@
-{shop_url}
-
+[{shop_name}]({shop_url})
 Hola {firstname} {lastname},
 
-ID Pedido {order_name} - Factura por abono
+Hemos generado una factura de abono a su nombre para el pedido con referencia {order_name}.
 
-Se ha creado un cupón de descuento a su nombre tras haber realizado el pedido con número de referencia {order_name}.
+Puede revisar esta factura de abono y descargar la factura desde ["Mi historial de pedidos"]({history_url}) de su cuenta haciendo clic ["Mi cuenta "]({my_account_url}) en nuestra tienda.
 
-Resive este cupón de descuento y descargue su factura desde nuestra tienda, diríjase a la sección [Cupones de descuento]({history_url}) de su cuenta de cliente.
-
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) desarrollado con [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

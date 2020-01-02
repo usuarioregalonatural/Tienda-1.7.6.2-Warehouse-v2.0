@@ -1,17 +1,10 @@
-{shop_url}
-
+[{shop_name}]({shop_url})
 Hola {firstname} {lastname},
-
 Gracias por su pedido con la referencia {order_name} de{shop_name}.
 
-ID Pedido {order_name} - Reabastecimiento requerido
+Desafortunadamente, uno o más productos de su pedido se encuentran fuera de stock. Esto puede originar un ligero retraso en el envío. Trabajeremos lo más rápido posible para solucionarlo. Por favor, acepte nuestras disculpas.
 
-Unfortunately, one or more items are currently out of stock and this may cause a slight delay for delivery. Please accept our apologies for this inconvenience and be sure we are doing our best to correct the situation.
+Puede revisar su pedido y descargar la factura desde ["Historial de pedidos"]({history_url}) de su cuenta de cliente, haciendo clic en {my_account_url} en nuestra tienda.
+Si tiene una cuenta de invitado, puede seguir su pedido desde la sección: ["Seguimiento de invitado"]({guest_tracking_url}?id_order={order_name}) de nuestra tienda.
 
-Follow your order and download your invoice on our shop, go to the [Order history and details]({history_url}) section of your customer account.
-
-Si tiene una cuenta de invitado, puede seguir su pedido desde la sección: ["Seguimiento de invitado"]({guest_tracking_url}) de nuestra tienda.
-
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) desarrollado con [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)
