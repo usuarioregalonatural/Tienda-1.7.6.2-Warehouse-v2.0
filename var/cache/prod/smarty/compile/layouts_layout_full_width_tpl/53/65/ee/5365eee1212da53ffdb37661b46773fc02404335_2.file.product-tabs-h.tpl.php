@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-12-31 19:50:36
+/* Smarty version 3.1.33, created on 2020-01-02 12:00:44
   from '/var/www/html/themes/warehouse/templates/catalog/_partials/_product_partials/product-tabs-h.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0b987c829cb0_81496564',
+  'unifunc' => 'content_5e0dcd5c38f500_70952935',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,18 +22,18 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5e0b987c829cb0_81496564 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0dcd5c38f500_70952935 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3822865735e0b987c80b8f5_95970319', 'product_tabs');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17335653975e0dcd5c371160_40760685', 'product_tabs');
 ?>
 
 <?php }
 /* {block 'product_description'} */
-class Block_918480165e0b987c816a53_84741562 extends Smarty_Internal_Block
+class Block_6719126745e0dcd5c37c2b0_61026267 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -49,7 +49,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'product_description'} */
 /* {block 'product_details'} */
-class Block_4021085205e0b987c818ca2_98923707 extends Smarty_Internal_Block
+class Block_13945182965e0dcd5c37e4d9_48469715 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -61,7 +61,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'product_details'} */
 /* {block 'product_attachments'} */
-class Block_11877470565e0b987c819a34_99797934 extends Smarty_Internal_Block
+class Block_3510485445e0dcd5c37f2c0_23269745 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -104,7 +104,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 }
 /* {/block 'product_attachments'} */
 /* {block 'product_miniature'} */
-class Block_1553238915e0b987c821d79_00644073 extends Smarty_Internal_Block
+class Block_11012245605e0dcd5c387df8_41747399 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -116,7 +116,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'product_miniature'} */
 /* {block 'product_accessories_tab'} */
-class Block_8364810305e0b987c820e79_92921284 extends Smarty_Internal_Block
+class Block_10988318115e0dcd5c386f09_34941613 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -128,7 +128,7 @@ if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['product_accessory']->value) {
 ?>
                                         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1553238915e0b987c821d79_00644073', 'product_miniature', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_11012245605e0dcd5c387df8_41747399', 'product_miniature', $this->tplIndex);
 ?>
 
                                     <?php
@@ -141,32 +141,32 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 }
 /* {/block 'product_accessories_tab'} */
 /* {block 'product_tabs'} */
-class Block_3822865735e0b987c80b8f5_95970319 extends Smarty_Internal_Block
+class Block_17335653975e0dcd5c371160_40760685 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_tabs' => 
   array (
-    0 => 'Block_3822865735e0b987c80b8f5_95970319',
+    0 => 'Block_17335653975e0dcd5c371160_40760685',
   ),
   'product_description' => 
   array (
-    0 => 'Block_918480165e0b987c816a53_84741562',
+    0 => 'Block_6719126745e0dcd5c37c2b0_61026267',
   ),
   'product_details' => 
   array (
-    0 => 'Block_4021085205e0b987c818ca2_98923707',
+    0 => 'Block_13945182965e0dcd5c37e4d9_48469715',
   ),
   'product_attachments' => 
   array (
-    0 => 'Block_11877470565e0b987c819a34_99797934',
+    0 => 'Block_3510485445e0dcd5c37f2c0_23269745',
   ),
   'product_accessories_tab' => 
   array (
-    0 => 'Block_8364810305e0b987c820e79_92921284',
+    0 => 'Block_10988318115e0dcd5c386f09_34941613',
   ),
   'product_miniature' => 
   array (
-    0 => 'Block_1553238915e0b987c821d79_00644073',
+    0 => 'Block_11012245605e0dcd5c387df8_41747399',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -244,7 +244,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
             <?php if ($_smarty_tpl->tpl_vars['product']->value['description']) {?>
             <div class="tab-pane in<?php if ($_smarty_tpl->tpl_vars['product']->value['description']) {?> active<?php }?>" id="description">
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_918480165e0b987c816a53_84741562', 'product_description', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_6719126745e0dcd5c37c2b0_61026267', 'product_description', $this->tplIndex);
 ?>
 
             </div>
@@ -254,14 +254,14 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_918480165e0b987c81
             >
 
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4021085205e0b987c818ca2_98923707', 'product_details', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_13945182965e0dcd5c37e4d9_48469715', 'product_details', $this->tplIndex);
 ?>
 
 
             </div>
 
             <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_11877470565e0b987c819a34_99797934', 'product_attachments', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3510485445e0dcd5c37f2c0_23269745', 'product_attachments', $this->tplIndex);
 ?>
 
 
@@ -269,7 +269,7 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_11877470565e0b987c
                 <?php if ($_smarty_tpl->tpl_vars['accessories']->value) {?>
                     <div class="tab-pane in" id="accessories-tab">
                         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8364810305e0b987c820e79_92921284', 'product_accessories_tab', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_10988318115e0dcd5c386f09_34941613', 'product_accessories_tab', $this->tplIndex);
 ?>
 
                     </div>

@@ -6,6 +6,14 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>¿Cómo crear unas buenas descripciones de producto para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/8-consejos-para-realizar-buenas-descripciones-de-productos</link>
+    <description>¿Eres de los que piensan que las descripciones de los productos de tu eCommerce no son tan importantes para obtener más ventas?</description>
+     <pubDate>Thu, 02 Jan 2020 04:22:15 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/8-consejos-para-realizar-buenas-descripciones-de-productos</guid>
+  </item>
+  <item>
     <title>SEO Local para eCommerce ¡Deja que encuentren tu negocio! (Webinar)</title>
     <link>https://www.prestashop.com/es/blog/seo-local-webinar</link>
     <description>SEO Local para eCommerce ¡Deja que encuentren tu negocio!
@@ -83,14 +91,6 @@
      <pubDate>Wed, 04 Dec 2019 07:49:24 +0100</pubDate>
  <dc:creator>Mariela Quiroga</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-checkout</guid>
-  </item>
-  <item>
-    <title>Puntos de dolor o Pain Points ¿por qué resolver problemas de tus clientes aumenta tus ventas?</title>
-    <link>https://www.prestashop.com/es/blog/pain-points-puntos-de-dolor</link>
-    <description>¿Sabes cuáles son los puntos de dolor de tu cliente potencial?</description>
-     <pubDate>Mon, 02 Dec 2019 07:58:43 +0100</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/pain-points-puntos-de-dolor</guid>
   </item>
   </channel>
 </rss>
