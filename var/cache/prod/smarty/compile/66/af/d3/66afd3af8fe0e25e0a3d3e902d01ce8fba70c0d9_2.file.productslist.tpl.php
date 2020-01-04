@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-02 19:05:15
+/* Smarty version 3.1.33, created on 2020-01-03 12:12:13
   from '/var/www/html/modules/iqitelementor/views/templates/widgets/productslist.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0e30dbcc98c2_00602129',
+  'unifunc' => 'content_5e0f218dd09b87_61264854',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product-list.tpl' => 1,
   ),
 ),false)) {
-function content_5e0e30dbcc98c2_00602129 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e0f218dd09b87_61264854 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="elementor-products">
         <?php if ($_smarty_tpl->tpl_vars['view']->value == 'carousel_s' || $_smarty_tpl->tpl_vars['view']->value == 'carousel') {?>
