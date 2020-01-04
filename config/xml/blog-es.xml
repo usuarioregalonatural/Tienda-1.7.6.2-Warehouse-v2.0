@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cómo crear unas buenas descripciones de producto para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/8-consejos-para-realizar-buenas-descripciones-de-productos</link>
+    <description>¿Eres de los que piensan que las descripciones de los productos de tu eCommerce no son tan importantes para obtener más ventas?</description>
+     <pubDate>Thu, 02 Jan 2020 04:22:15 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/8-consejos-para-realizar-buenas-descripciones-de-productos</guid>
+  </item>
+  <item>
+    <title>SEO Local para eCommerce ¡Deja que encuentren tu negocio! (Webinar)</title>
+    <link>https://www.prestashop.com/es/blog/seo-local-webinar</link>
+    <description>SEO Local para eCommerce ¡Deja que encuentren tu negocio!
+27 de diciembre a las 16 horas (de España)
+
+</description>
+     <pubDate>Fri, 27 Dec 2019 07:24:45 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/seo-local-webinar</guid>
+  </item>
+  <item>
+    <title>¿Cómo aprovechar las opiniones positivas de tus clientes para vender más?</title>
+    <link>https://www.prestashop.com/es/blog/5-consejos-para-maximizar-el-numero-de-opiniones-positivas-de-los-clientes-en-tu-web-de-e-commerce</link>
+    <description>Por defecto, toda tienda online es un tipo de negocio online muy competitivo, ya que rompe los límites de las fronteras territoriales clásicas, al poderse vender productos en el mercado internacion</description>
+     <pubDate>Thu, 26 Dec 2019 06:00:55 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/5-consejos-para-maximizar-el-numero-de-opiniones-positivas-de-los-clientes-en-tu-web-de-e-commerce</guid>
+  </item>
+  <item>
+    <title>¿Qué es un plan de inversión y cómo puede beneficiar a tu proyecto?</title>
+    <link>https://www.prestashop.com/es/blog/plan-de-inversion</link>
+    <description>¿Tienes un plan de inversión bien planificado para hacer que tu eCommerce sea sostenible a medio/largo plazo?</description>
+     <pubDate>Mon, 16 Dec 2019 15:39:20 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plan-de-inversion</guid>
+  </item>
+  <item>
+    <title>¿Qué son los Webservices y cómo automatizar tareas en PrestaShop con servicios remotos? (Webinar)</title>
+    <link>https://www.prestashop.com/es/blog/webservices-automatizar-prestashop-webinar</link>
+    <description>¿Qué son los Webservices y cómo automatizar tareas en PrestaShop con servicios remotos?
+19 de diciembre a las 16 horas (de España)
+</description>
+     <pubDate>Mon, 16 Dec 2019 11:53:46 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/webservices-automatizar-prestashop-webinar</guid>
+  </item>
+  <item>
+    <title>10 Errores que todo responsable de eCommerce debería evitar cometer en su negocio</title>
+    <link>https://www.prestashop.com/es/blog/errores-ecommerce</link>
+    <description>¿Has cometido algún error en tu tienda online y piensas que eres el único emprendedor al que le ha ocurrido?</description>
+     <pubDate>Mon, 16 Dec 2019 10:30:15 +0100</pubDate>
+ <dc:creator>Flavia Sanchez ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/errores-ecommerce</guid>
+  </item>
+  <item>
+    <title>200€ de regalo en módulos gracias a &amp;quot;PrestaShop Checkout built with PayPal&amp;quot;</title>
+    <link>https://www.prestashop.com/es/blog/promocion-prestashop-checkout</link>
+    <description>¿Conoces &quot;PrestaShop Checkout&quot;?</description>
+     <pubDate>Fri, 13 Dec 2019 17:22:52 +0100</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/promocion-prestashop-checkout</guid>
+  </item>
+  <item>
+    <title>¿Cómo migrar tu tienda PrestaShop a un nuevo servidor?</title>
+    <link>https://www.prestashop.com/es/blog/como-migrar-prestashop-un-nuevo-servidor</link>
+    <description>¿Estás pensando en migrar tu PrestaShop a un nuevo servidor que intuyes que te dará mejores prestaciones?</description>
+     <pubDate>Fri, 13 Dec 2019 06:25:32 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-migrar-prestashop-un-nuevo-servidor</guid>
+  </item>
+  <item>
+    <title>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países? (Webinar)</title>
+    <link>https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</link>
+    <description>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países?
+12 de diciembre a las 16 horas (de España)
+</description>
+     <pubDate>Thu, 12 Dec 2019 15:40:22 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</guid>
+  </item>
+  <item>
+    <title>El Checkout en el proceso de compra ¿qué es y cómo optimizarlo correctamente?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-el-checkout</link>
+    <description>¿Tienes problemas para materializar las ventas en tu tienda y sospechas que el problema se encuentra en el proceso de checkout de tu web?</description>
+     <pubDate>Wed, 04 Dec 2019 07:49:24 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-checkout</guid>
+  </item>
+  </channel>
+</rss>
