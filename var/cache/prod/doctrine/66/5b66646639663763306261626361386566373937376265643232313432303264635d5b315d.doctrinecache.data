@@ -1,7 +1,7 @@
-1578143551
+1578144695
 s:775:"HTTP/1.1 200 OK
 Server: nginx
-Date: Sat, 04 Jan 2020 11:12:31 GMT
+Date: Sat, 04 Jan 2020 11:31:35 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Vary: Accept-Encoding
@@ -12,6 +12,6 @@ Referrer-Policy: strict-origin-when-cross-origin
 X-Permitted-Cross-Domain-Policies: none
 Expect-CT: enforce, max-age=604800
 Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
-X-Backend-Server: vm2728.jn-hebergement.com
+X-Backend-Server: vm2729.jn-hebergement.com
 
 {"services":[]}";
