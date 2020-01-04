@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-04 12:31:39
+/* Smarty version 3.1.33, created on 2020-01-04 20:43:29
   from '/var/www/html/modules/iqitdashboardnews/views/templates/hook/dashboard_zone_one.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e10779bac3ea5_37957511',
+  'unifunc' => 'content_5e10eae1b7d505_65118406',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e10779bac3ea5_37957511 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e10eae1b7d505_65118406 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section id="dashiqitnews" class="panel widget">
 	<div class="panel-heading">
 		 <img src="../modules/iqitdashboardnews/views/img/logo.png" alt="<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'IQIT-COMMERCE updates','mod'=>'iqitdashboardnews'),$_smarty_tpl ) );?>
