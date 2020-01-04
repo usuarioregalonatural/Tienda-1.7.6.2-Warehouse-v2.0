@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-03 12:11:24
+/* Smarty version 3.1.33, created on 2020-01-04 12:31:43
   from 'module:iqitlinksmanagerviewstemp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0f215cefe034_88717989',
+  'unifunc' => 'content_5e10779f8ed292_53095463',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e0f215cefe034_88717989 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e10779f8ed292_53095463 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['linkBlocks']->value, 'linkBlock');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['linkBlock']->value) {

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-03 12:12:14
+/* Smarty version 3.1.33, created on 2020-01-04 12:31:43
   from 'module:psshoppingcartpsshoppingc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e0f218e401dd0_40707165',
+  'unifunc' => 'content_5e10779fb6ca94_89532954',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:ps_shoppingcart/ps_shoppingcart-product-line.tpl' => 1,
   ),
 ),false)) {
-function content_5e0f218e401dd0_40707165 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e10779fb6ca94_89532954 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="_desktop_blockcart-content" class="dropdown-menu-custom dropdown-menu">
     <div id="blockcart-content" class="blockcart-content" >
         <div class="cart-title">
